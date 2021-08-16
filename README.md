@@ -1,2 +1,2 @@
 # AgencyEpicurus.github.io
-Agency Epicurus' homepage: http://AgencyEpicur.us
+Agency Epicurus' homepage: https://AgencyEpicur.us
